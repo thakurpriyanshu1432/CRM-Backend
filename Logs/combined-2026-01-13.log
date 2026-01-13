@@ -1,0 +1,5 @@
+{"duration":"21ms","ip":"::1","level":"info","message":"HTTP Request Log","method":"POST","statusCode":404,"timestamp":"2026-01-13 12:47:06","url":"/api/admin/create-user"}
+{"duration":"5ms","ip":"::1","level":"info","message":"HTTP Request Log","method":"POST","statusCode":401,"timestamp":"2026-01-13 12:49:35","url":"/api/admin/Createuser"}
+{"duration":"3ms","ip":"::1","level":"info","message":"HTTP Request Log","method":"POST","statusCode":401,"timestamp":"2026-01-13 12:50:00","url":"/api/admin/Createuser"}
+{"duration":"2ms","ip":"::1","level":"info","message":"HTTP Request Log","method":"POST","statusCode":401,"timestamp":"2026-01-13 12:50:17","url":"/api/admin/Createuser"}
+{"duration":"1ms","ip":"::1","level":"info","message":"HTTP Request Log","method":"POST","statusCode":401,"timestamp":"2026-01-13 12:52:12","url":"/api/admin/Createuser"}
